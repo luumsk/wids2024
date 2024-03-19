@@ -15,7 +15,7 @@ For LGBM installation, refer to this installation guide in [this page](https://l
 ## Team
 
 - Minh Sao Khue Luu
-- Santanu Banerjee
+- Santanu Banerjee (https://github.com/SanTanBan)
 
 ## Paper
 
