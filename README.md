@@ -22,10 +22,6 @@ For LGBM installation, use `brew install lgbm`
 For a detailed explanation of our methodology, findings, and insights, please refer to our paper: [TBA]()
 
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Contact
 
 For any queries regarding the project, please contact us at [luuminsaokhue@gmail.com].
