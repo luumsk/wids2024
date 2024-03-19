@@ -9,7 +9,7 @@ This repository contains all the code developed as part of our participation in 
 2. Install required dependencies listed in `requirements.txt` using `pip install -r requirements.txt`.
 For LGBM installation, refer to this installation guide in [this page](https://lightgbm.readthedocs.io/en/latest/Installation-Guide.html).
 3. To run the CatBoost model, use the notebook `wids2024-acwomen-catboost.ipynb` 
-4. To run the CatBoost model, use the notebook `wids2024-acwomen-xgboost.ipynb` 
+4. To run the XGBoost model, use the notebook `wids2024-acwomen-xgboost.ipynb` 
 5. To run the radar graph, refer to [this repo](https://github.com/SanTanBan/WiDS-AcWomen).
 
 ## Team
