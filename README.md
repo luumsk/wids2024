@@ -10,7 +10,7 @@ This repository contains all the code developed as part of our participation in 
 For LGBM installation, refer to this installation guide in [this page](https://lightgbm.readthedocs.io/en/latest/Installation-Guide.html).
 3. To run the CatBoost model, use the notebook `wids2024-acwomen-catboost.ipynb` 
 4. To run the XGBoost model, use the notebook `wids2024-acwomen-xgboost.ipynb` 
-5. To replicate the Radar Graph, refer to [this repo](https://github.com/SanTanBan/WiDS-AcWomen).
+5. To replicate the Radar Graphs, refer to [this repo](https://github.com/SanTanBan/WiDS-AcWomen).
 
 ## Team
 
