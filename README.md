@@ -1,6 +1,6 @@
 # WiDS Datathon 2024 Challenge Repository
 
-This repository contains all the code developed as part of our participation in the Women in Data Science (WiDS) Datathon for the year 2024. Our project focuses on leveraging machine learning and data science techniques to address the challenge posed by this year's competition.
+This repository contains all the code developed as part of our participation in the [Women in Data Science (WiDS) Datathon for the year 2024](https://www.kaggle.com/competitions/widsdatathon2024-challenge1/overview.). Our project focuses on leveraging machine learning and data science techniques to address the challenge posed by this year's competition.
 
 
 ## How to Use This Repository
@@ -19,11 +19,12 @@ For LGBM installation, refer to this installation guide in [this page](https://l
 
 ## Paper
 
-For a detailed explanation of our methodology, findings, and insights, please refer to our paper: [TBA]()
+For a detailed explanation of our methodology, findings, and insights, please refer to our conference paper: [https://doi.org/10.1109/EDM61683.2024.10615210](https://doi.org/10.1109/EDM61683.2024.10615210).
+We are excited to share that our paper, "Harnessing Ensemble Machine Learning Models for Timely Diagnosis of Breast Cancer Metastasis: A Case Study on CatBoost, XGBoost, and LGBM," has been awarded 3rd place in the "Health Informatics and Digital Humanities" category: https://edm.ieeesiberia.org/result-2024/
 
 
 ## Contact
 
-For any queries regarding the project, please contact us at [luuminsaokhue@gmail.com].
+For any queries regarding the project, please contact us at [khue.luu@g.nsu.ru].
 
 Thank you for visiting our repository!
